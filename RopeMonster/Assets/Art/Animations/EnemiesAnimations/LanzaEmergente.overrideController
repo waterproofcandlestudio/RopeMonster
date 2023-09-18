@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LanzaEmergente
+  m_Controller: {fileID: 9100000, guid: c6da4198a9b566542836350e9a65826b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 11f76fcdc7da3e34d8b50fa5d683a7d7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3bf3011d2c6e4154ca02793ff72e2179, type: 2}
